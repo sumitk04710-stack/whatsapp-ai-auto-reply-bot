@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables / API keys
+.env
+
+# Screenshots
+*.png
+*.jpg
+*.jpeg
+
+# Test screenshots
+*_screen.png
+*_screenshot.png
+*_chat.png
+*_crop.png
